@@ -1,8 +1,9 @@
 def hello():
-  print("Hello from the main.py")
+    print("hi")
+
 
 def bye():
-    print("Bye from the main.py")
+    print("bye")
 
-hello()
-  bye()
+
+print(hello())
